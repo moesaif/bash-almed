@@ -1,0 +1,2 @@
+# bash-almed
+Bash Tutorial 
